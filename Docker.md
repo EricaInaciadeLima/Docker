@@ -77,7 +77,7 @@ docker build -t api_nutriacess .
 ```
 
 ![alt text](/imgs/image2.png)
-![alt text](/imgs/image-1.png)
+![alt text](/imgs/image03.png)
 
 
 
@@ -97,3 +97,5 @@ docker run -p 3003:3003 api_nutriacess
 ![alt text](/imgs/image3.png)
 
 ![alt text](/imgs/image5.png)
+
+![alt text](/imgs/image.png)
